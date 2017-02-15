@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SafetyNet</string>
+    <string name="safetykey">AIzaSyBp-xM6jypLUTlC_uQh0k2clTWZZ3R8Zfc</string>
+    <string name="double_back_message">Press back again to exit</string>
+    <string name="exit">Exit</string>
+    <string name="start_text_button">Start safety net test</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
