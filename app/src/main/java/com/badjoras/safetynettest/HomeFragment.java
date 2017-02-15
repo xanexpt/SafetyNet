@@ -196,9 +196,8 @@ public class HomeFragment extends Fragment implements GoogleApiClient.OnConnecti
     }
 
     /**
-     * test development purposes, is recomended to do this step in server side
-     * create post request with jwt in the body and safetynet key in url parameter
-     *
+     * Do NOT rely on a local, client-side only check for security, you
+     * must verify the response on a remote server!
      * @param body GoogleValdiateBody object with jwt payload
      */
     private void validateSecondStep(GoogleValdiateBody body){
