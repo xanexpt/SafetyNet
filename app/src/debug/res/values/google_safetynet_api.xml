@@ -1,0 +1,5 @@
+<resources>
+    <string name="google_safetynet_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyBp-xM6jypLUTlC_uQh0k2clTWZZ3R8Zfc
+    </string>
+</resources>

@@ -47,7 +47,7 @@ public class HomeFragment extends Fragment implements GoogleApiClient.OnConnecti
 
     public static final String TAG = HomeFragment.class.toString();
 
-    @BindString(R.string.safetykey) String safetyNetworkKey;
+    @BindString(R.string.google_safetynet_key) String safetyNetworkKey;
     @BindView(R.id.button_start) TextView buttonStart;
     @BindView(R.id.add_views_container) LinearLayout llContainer;
 
